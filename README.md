@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @WashJuni
-- 👀 I’m interested in  aprender  novas habilidades em desenvolvimento
-- 🌱 I’m currently learning  front end
-- 💞️ I’m looking to collaborate on  sites em desenvolvimente
-- 📫 How to reach me  waths (21)9 80028164
-
-<!---
-WashJuni/WashJuni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+​👋 Olá, eu sou Washington Junior!
+​🎓 Estudante de: Análise e Desenvolvimento de Sistemas (1º Período).
+​🎯 Objetivo: Adquirir experiência em analise de sistemas / front end e back end.
+​🛠️ Tecnologias que estou aprendendo: Lógica de Programação, C/Python, HTML, CSS, Java scrip e Jquery 
+​💡 Soft Skills: Proatividade, Pensamento Analítico e Aprendizagem Rápida.
+​🌐 Conecte-se comigo: https://www.linkedin.com/in/washington-junior-443a44172?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
