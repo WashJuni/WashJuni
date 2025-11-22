@@ -1,0 +1,36 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+skinparam shadowing false
+skinparam BackgroundColor white
+skinparam usecase {
+  BorderColor #333333
+  BackgroundColor #f7f7f7
+}
+
+actor "Secretária" as Sec
+actor "Médico" as Med
+
+rectangle "Sistema de Gestão de Consultas" {
+  usecase "Cadastrar Paciente" as UC1
+  usecase "Agendar Consulta" as UC2
+  usecase "Confirmar Consulta" as UC3
+  usecase "Cancelar Consulta" as UC4
+  usecase "Cancelar Consulta" as UC4M
+  usecase "Verificar Disponibilidade" as UC5
+  usecase "Verificar Cadastro" as UC6
+  usecase "Gerar Receita" as UC7
+  usecase "Imprimir Receita" as UC8
+}
+
+Sec --> UC1
+Sec --> UC2
+Sec --> UC3
+Sec --> UC4
+Med --> UC4M
+Med --> UC7
+
+UC2 ..> UC5 : <<include>>
+UC3 ..> UC6 : <<include>>
+UC7 ..> UC8 : <<include>>
+@enduml
