@@ -1,4 +1,0 @@
-Como gerar o PNG do diagrama (3 opções):
-1) https://www.plantuml.com/plantuml/ (Editor Online) → cole o conteúdo do .puml e exporte como PNG.
-2) diagrams.net (draw.io): Inserir → PlantUML → cole o conteúdo → Exportar como PNG.
-3) Local (Java + Graphviz + PlantUML jar): plantuml casos_de_uso_vida_mais.puml
